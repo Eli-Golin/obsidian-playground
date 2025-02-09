@@ -2,4 +2,4 @@
 
 ## Links:
 
-<% tp.data.now("DD/MM/YY HH:mm") %>
+<% tp.date.now("DD/MM/YY HH:mm") %>
