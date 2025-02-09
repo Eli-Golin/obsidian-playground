@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Holiday 2025/My first note (about holiday).md",
-                "mode": "source",
+                "file": "templates/Zettel template.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My first note (about holiday)"
+              "title": "Zettel template"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "2aa2cd285af043ee",
         "type": "tabs",
-        "dimension": 24.68274111675127,
+        "dimension": 24.682741116751274,
         "children": [
           {
             "id": "8cebafa1136a3e52",
@@ -58,7 +58,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,18 +173,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "fc00a3736bc4537d",
   "lastOpenFiles": [
-    "PARA.md",
+    "0-Inbox/Untitled.md",
+    "templates/Zettel template.md",
+    "templates",
     "1-projects/Holiday 2025/My first note (about holiday).md",
+    "PARA.md",
     "1-projects/Holiday 2025/Holiday planning 2025.md",
     "0-Inbox/My third note..md",
     "3-areas/Tech blog/Article - New AG for Containers in Azure.md",

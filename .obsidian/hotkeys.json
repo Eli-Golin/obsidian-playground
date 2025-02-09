@@ -14,5 +14,13 @@
       ],
       "key": "M"
     }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "N"
+    }
   ]
 }
