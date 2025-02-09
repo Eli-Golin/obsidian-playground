@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa2cd285af043ee",
+        "id": "c73d799dc4b652c2",
         "type": "tabs",
         "children": [
           {
-            "id": "8cebafa1136a3e52",
+            "id": "bacaab09c3e1332b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,11 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cebafa1136a3e52",
+  "active": "bacaab09c3e1332b",
   "lastOpenFiles": [
-    "PARA.md",
+    "0-Inbox/Testing template.md",
     "templates/Zettel template.md",
-    "0-Inbox/Untitled.md",
+    "PARA.md",
     "templates",
     "1-projects/Holiday 2025/My first note (about holiday).md",
     "1-projects/Holiday 2025/Holiday planning 2025.md",
